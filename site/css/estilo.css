@@ -1,0 +1,71 @@
+.background{
+	background-color: #DEDDE6;
+}
+
+.fundo_topo{
+	width: 100%;
+	background-color: #120C0E;
+}
+
+.logo{
+	margin-left: 40%;
+	width: 15%; 
+	margin-top: 1%;	
+	margin-bottom: 1%;
+}
+
+.nome_logo{
+	color: white;
+	margin-left: 43%;
+	margin-bottom: 2%;
+}
+
+.div{
+	clear: both;
+}
+
+.caixa_menu{
+	border: solid;
+	border-color:#2C8BCD; 
+	background-color: #2C8BCD;
+	width: 99.7%;
+	margin-bottom: 2%;
+	margin-top: 0.1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+.nome_menu{
+	text-decoration: none;
+	color: white;
+	margin: 1%;
+	margin-left: 22%;
+	margin-right: 20%;
+	margin-top: 2%;
+	font-size: 30px;
+	font-family: courier new;
+
+
+}
+
+a:hover{
+	color:black;
+	background-color: white;
+	padding-top: 0.2%;
+	padding-bottom: 0.2%;
+	padding-right: 2%;
+	padding-left: 2%; 
+}
+
+.pesquisa{
+
+	  width: 30%;
+	  padding-bottom: 2%;
+	  margin-left: 35%;
+	  border-radius: 15px 50px 30px;
+	  border-style: none;
+	  font-family: arial;
+	  font-size: 150%;
+	  text-align: center;
+
+}
