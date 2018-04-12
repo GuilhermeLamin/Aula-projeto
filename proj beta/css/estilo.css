@@ -1,0 +1,116 @@
+.background{
+	background-color: #DEDDE6;
+}
+
+/* 			INICIO TOPO*/
+.fundo_topo{
+	width: 100%;
+	background-color: #120C0E;
+}
+
+.logo{
+	margin-left: 40%;
+	width: 15%; 
+	margin-top: 1%;	
+	margin-bottom: 1%;
+}
+
+.nome_logo{
+	color: white;
+	margin-left: 43%;
+	margin-bottom: 2%;
+}
+
+.div{
+	clear: both;
+}
+
+.caixa_menu{
+	border: solid;
+	border-color:#2C8BCD; 
+	background-color: #2C8BCD;
+	width: 99.7%;
+	margin-bottom: 2%;
+	margin-top: 0.1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+.nome_menu{
+	text-decoration: none;
+	color: white;
+	margin: 1%;
+	margin-left: 22%;
+	margin-right: 20%;
+	margin-top: 2%;
+	font-size: 30px;
+	font-family: courier new;
+}
+
+.caixa_menu a:hover{
+	color:black;
+	background-color: white;
+	padding-top: 0.2%;
+	padding-bottom: 0.2%; 
+}
+
+/*			FIM TOPO  */
+
+/*			INICIO SITE.PHP*/
+
+.pesquisa{
+
+	  width: 30%;
+	  padding-bottom: 2%;
+	  margin-left: 35%;
+	  border-radius: 15px 50px 30px;
+	  border-style: none;
+	  font-family: arial;
+	  font-size: 150%;
+	  text-align: center;
+}
+
+/*			INICIO LISTA_JOGOS.PHP  */
+
+.caixa_lista{
+	border-style: solid;
+	text-align: center;
+	margin-left: 36%;
+	margin-right: 30%;
+	width: 20%;
+	padding: 1%;
+}
+.caixa_lista a:hover{
+	font-size: 130%;
+	color: #DEDDE6;
+	background-color: #403539;
+	padding-top: 0.2%;
+	padding-bottom: 0.2%; 
+}
+
+#titulo_lista{
+	font-size: 200%;
+	border-bottom-style: solid;
+}
+
+.nomes_jogos{
+	text-decoration: none;
+	color: black;
+}
+
+/*		FIM LISTA_JOGOS.PHP*/
+
+/*		INICIO PAGINA DE ANÁLISES*/
+
+#titulo_analise{
+	text-align: center;
+}
+
+.caixa_analise{
+	border-style: solid;
+}
+
+.img_jogo{
+	border-style: solid;
+	width: 40%;
+}
