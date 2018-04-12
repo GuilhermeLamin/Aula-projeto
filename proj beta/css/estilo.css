@@ -32,12 +32,13 @@
 	width: 99.7%;
 	margin-bottom: 2%;
 	margin-top: 0.1%;
-	padding-top: 1%;
-	padding-bottom: 1%;
+	padding-top: 1.5%;
+	padding-bottom: 1.5%;
 }
 
 .nome_menu{
 	text-decoration: none;
+	font-weight: 500;
 	color: white;
 	margin: 1%;
 	margin-left: 22%;
@@ -45,13 +46,17 @@
 	margin-top: 2%;
 	font-size: 30px;
 	font-family: courier new;
+	padding-right: 1.5%;
+	padding-left: 1.5%;
 }
 
 .caixa_menu a:hover{
 	color:black;
 	background-color: white;
-	padding-top: 0.2%;
-	padding-bottom: 0.2%; 
+	padding-top: 1.7%;
+	padding-bottom: 1.7%; 
+	padding-right: 1.5%;
+	padding-left: 1.5%;
 }
 
 /*			FIM TOPO  */
@@ -78,7 +83,6 @@
 	margin-left: 36%;
 	margin-right: 30%;
 	width: 20%;
-	padding: 1%;
 }
 .caixa_lista a:hover{
 	font-size: 130%;
